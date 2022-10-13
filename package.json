@@ -1,14 +1,8 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  },
-  "name": "week8",
+  "name": "team-profile-generator",
   "version": "1.0.0",
+  "description": "## Description",
   "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
   "scripts": {
     "test": "jest"
   },
@@ -23,7 +17,9 @@
     "url": "https://github.com/DBEdelson/Team-Profile-Generator/issues"
   },
   "homepage": "https://github.com/DBEdelson/Team-Profile-Generator#readme",
-  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
   "devDependencies": {
     "jest": "^29.1.2"
   }
