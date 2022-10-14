@@ -35,7 +35,7 @@ From the command line run 'node index.js' and answer prompts.
 
 Video https://drive.google.com/file/d/1mowJafmYwn14p0ta8JovwOOeH6wEFQef/view?usp=sharing
 
-![ScreenShot.png!](./images/Screen%20Shot%202022-10-13%20at%206.48.34%20PM.png
+![ScreenShot.png!](./images/ScreenShot.png)
 
 ## Test
 
